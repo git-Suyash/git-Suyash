@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @git-Suyash
-- 👀 I’m interested in WEB3 DEVELOPMENT
-- 🌱 I’m currently learning Java & Python
+- 👀 I’m learning about WEB DEVELOPMENT/ MERN stack.
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me svtsuyash@gmail.com
-- 👲 I'm a CS student learning new topics every day
 
 <!---
 git-Suyash/git-Suyash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
